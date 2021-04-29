@@ -1,4 +1,4 @@
-# Template-Typescript
+# Template-React-Typescript
 
 ## Install all dependeces
 
